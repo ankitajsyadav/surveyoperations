@@ -5,6 +5,14 @@ This mock survey is designed for interview demonstration purposes, especially fo
 
 ---
 
+## 🚀 Live Demo (Streamlit Cloud)
+
+You can access and interact with the live deployed app here:
+
+👉 **https://surveyoperations.streamlit.app/**
+
+No installation required — the app loads instantly in your browser.
+
 ## 🎯 Features Demonstrated
 
 ### ✔ Skip Logic  
